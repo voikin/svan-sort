@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipZjZFn9WkfRL1Tlm//CYuRprJ8YP8Nt73+9gmU77cdebWYZOzHxbBnkX943exkM9fFkCJYXePAaKcejfxOBCA==",
+  "success": true,
+  "projectFilePath": "/Users/voikin/RiderProjects/svan-sort/svan-sort/svan-sort.csproj",
+  "expectedPackageFiles": [
+    "/Users/voikin/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
